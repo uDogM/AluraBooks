@@ -71,7 +71,7 @@
 }
 
 .container__botao:checked ~ .container__rotulo > .cabecalho__menu-hamburguer {
-    background-image: url("/img/Menu\ Aberto.svg");
+    background-image: url("/img/MenuAberto.svg");
 }
 
 .container__botao:checked ~ .container__rotulo {
